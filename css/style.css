@@ -421,12 +421,12 @@ hr + .btn-primary {
 }
 
 .btn-primary {
-  color: #f96d7a;
-  border: 1px solid #f96d7a;
+  color: #898989;
+  border: 1px solid #B0D49F;
 }
 .btn-primary:hover {
   color: #fff;
-  background: #f96d7a;
+  background: #5C777F;
 }
 
 .btn-lg {
@@ -1243,15 +1243,15 @@ article [class^="fa-"] {
 
 /*==================   Colors        ======================*/
 .primary {
-  color: #f96d7a;
+  color: #71C9CE;
 }
 
 .secondary {
-  color: #fac40b;
+  color: #BFAB65;
 }
 
 .secondary2 {
-  color: #ff9424;
+  color: #B0D49F;
 }
 
 /*========================   Menu   ==========================*/
